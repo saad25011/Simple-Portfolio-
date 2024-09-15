@@ -1,0 +1,71 @@
+
+
+
+.main{
+    width: 90%;
+    margin: 2rem auto;
+    display: flex;
+    flex-wrap: wrap-reverse;
+    justify-content: space-around   ;
+}
+
+.main .content{
+    width: 360px;
+    height: auto;
+    text-align: left;
+}
+
+.main .image img{
+    height: 200px;
+}
+
+.body .cards{
+    width: 90%;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin-bottom: 4rem;
+
+}
+
+.body .cards h1{
+    text-align: center;
+    color: #0d6efd;
+    width: 100%;
+    margin-top: 0.5rem;
+    margin-bottom: 2rem;
+
+}
+
+.body .cards h1 span{
+    font-size: 3rem;
+}
+
+
+.contact{
+    width: 90%;
+    margin: 0 auto;
+    text-align: center;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    height: auto;
+}
+
+.contact h4{
+    width: 100%;
+    margin-bottom: 3rem;
+    font-weight: 800;
+    text-align: center;
+}
+
+.contact i{
+    color: darkblue;
+    font-size: 4rem;
+}
+
+
+.boder{
+    width: 100%;
+}

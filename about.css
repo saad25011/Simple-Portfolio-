@@ -1,0 +1,26 @@
+
+body{
+    background-image: url(image/yellow.jpg);
+    background-size: contain;
+}
+.main{
+    width: 90%;
+    height: auto;
+    margin: 2rem auto;
+    background-color: whitesmoke;
+    border-radius: 1cm;
+}
+
+.main h1{
+    width: 100%;
+    text-align: center;
+}
+
+.main p{
+    text-align: left;
+    margin-bottom: 3rem;
+    width: 100%;
+}
+.main p span{
+    font-weight: 800;
+}
